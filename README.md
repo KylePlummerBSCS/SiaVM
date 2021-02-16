@@ -1,6 +1,6 @@
 # SiaVM
 
-A virtual machine to execute Simple Instruction Architecture instructions. Created for CSI-404 - Assembly Programming and Computer Organization
+A virtual machine to execute Simple Instruction Architecture instructions. Created for CSI-404 - Assembly Programming and Computer Organization in Spring 2020.
  
  
 ## Simple Instruction Architecture
