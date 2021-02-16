@@ -6,9 +6,11 @@ A virtual machine to execute Simple Instruction Architecture instructions. Creat
 ## Simple Instruction Architecture
 SIA (Simple Instruction Architecture) is a minimal instruction set with 16 instructions, including those for arithmetic, stack management, register management, and control flow. See documentation for details. SIA handles up to 32-bit instructions, though most utilize only 16 bits. 
  
+ 
+## SIA VM
 The virtual machine program siavm.exe takes input of SIA instructions in a binary file and executes until it reaches a halt. SIA machine code binaries can be created with the assembler program. 
 
-## Sia Assembler
+## SIA Assembler
 The assembler program assembler.exe takes inpt of SIA assembly instrucitons in a text file and outputs SIA machine code in a binary. Instructions follow one after another one per line. For example: 
 
     Move 1 R1
