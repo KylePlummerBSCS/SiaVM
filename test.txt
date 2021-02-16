@@ -1,0 +1,4 @@
+Move 1 R1
+Interrupt 0
+interrupt 1
+Halt
